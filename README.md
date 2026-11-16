@@ -4,7 +4,7 @@ A curated directory of **345+ free, browser-based tools** from [toolz.dev](https
 
 **Website:** [toolz.dev](https://toolz.dev)
 
-> 345 tools across 30 categories · last updated 2026-11-09
+> 345 tools across 30 categories · last updated 2026-11-16
 
 ---
 
@@ -462,7 +462,6 @@ A curated directory of **345+ free, browser-based tools** from [toolz.dev](https
 - [PFP Maker](https://toolz.dev/tools/pfp-maker) - Crop a photo into a square or circle profile picture at the size you need. Drag to position, zoom to frame it, and export PNG or JPG without uploading anything.
 - [PNG to GIF Converter](https://toolz.dev/tools/png-to-gif) - Convert PNG images to GIF in your browser, in batches, no upload needed
 - [PNG to ICO Converter](https://toolz.dev/tools/png-to-ico) - Convert PNG images to ICO favicons in your browser, in batches
-- [pngtoicotool](https://pngtoicotool.com/) - Convert PNG, JPG, WebP, and SVG images to ICO files in your browser.
 - [PNG to JPG Converter](https://toolz.dev/tools/png-to-jpg) - Convert PNG images to JPG in your browser, in batches, no upload needed
 - [PNG to PDF Converter](https://toolz.dev/tools/png-to-pdf) - Put PNG screenshots and graphics into one PDF without losing detail, one page per image, in your browser
 - [PNG to SVG Converter](https://toolz.dev/tools/png-to-svg) - Trace a PNG logo or icon into an SVG of filled shapes with 2, 8 or 16 colors. It does not recover the original vector design, and photos give large, blotchy SVGs
@@ -483,6 +482,7 @@ A curated directory of **345+ free, browser-based tools** from [toolz.dev](https
 - [Image to ASCII](https://imagetoascii.art/) - Convert images into ASCII character art locally in the browser, with width and dithering controls and TXT, PNG and SVG exports; free without signup.
 - [Photopea](https://www.photopea.com/) - Free online photo editor that works like Photoshop.
 - [Placeholder.com](https://placeholder.com/) - Generate placeholder images of any size.
+- [pngtoicotool](https://pngtoicotool.com/) - Convert PNG, JPG, WebP, and SVG images to ICO files in your browser.
 - [Remove.bg](https://www.remove.bg/) - Remove image backgrounds automatically.
 - [Shields.io](https://shields.io/) - Concise, consistent, and legible badges for READMEs.
 - [Squoosh](https://squoosh.app/) - Image compression web app by Google.
@@ -782,6 +782,8 @@ A curated directory of **345+ free, browser-based tools** from [toolz.dev](https
 - [Google Fonts](https://fonts.google.com/) - Free open-source font library.
 - [Font Squirrel](https://www.fontsquirrel.com/) - Free fonts for commercial use.
 - [Fontsource](https://fontsource.org/) - Self-host open-source fonts in neatly bundled NPM packages.
+
+---
 
 ---
 
