@@ -1,10 +1,10 @@
 # 🧰 Awesome Tools
 
-A curated directory of **345+ free, browser-based tools** from [toolz.dev](https://toolz.dev) — developer utilities, converters, generators, and calculators. Every tool runs 100% in your browser: no uploads, no signup, no data leaves your device.
+A curated directory of **346+ free, browser-based tools** from [toolz.dev](https://toolz.dev) — developer utilities, converters, generators, and calculators. Every tool runs 100% in your browser: no uploads, no signup, no data leaves your device.
 
 **Website:** [toolz.dev](https://toolz.dev)
 
-> 345 tools across 30 categories · last updated 2026-11-16
+> 346 tools across 31 categories · last updated 2026-11-19
 
 ---
 
@@ -30,6 +30,7 @@ A curated directory of **345+ free, browser-based tools** from [toolz.dev](https
 - [Minify & Beautify](#minify-beautify)
 - [Misc Tools](#misc-tools)
 - [PDF Tools](#pdf-tools)
+- [Prompt Generators](#prompt-generators)
 - [QR & Barcodes](#qr-barcodes)
 - [Regex](#regex)
 - [Security](#security)
@@ -578,6 +579,10 @@ A curated directory of **345+ free, browser-based tools** from [toolz.dev](https
 - [Sejda](https://www.sejda.com/) - Online PDF editor with merge, split, and compress.
 - [Smallpdf](https://smallpdf.com/) - All-in-one PDF tools for compression, conversion, and more.
 
+## Prompt Generators
+
+- [SEO Prompt Generator](https://toolz.dev/tools/seo-prompt-generator) - Build a ready-to-paste SEO prompt for ChatGPT, Claude, Gemini or Perplexity from your site, keywords and data. 20 workflows, from keyword research to audits.
+
 ## QR & Barcodes
 
 - [Email QR Code Generator](https://toolz.dev/tools/email-qr-code-generator) - Create an email QR code that opens a pre-filled message when scanned. Set the recipient, subject, body, CC, and BCC, then download SVG or PNG. 100% in your browser.
@@ -782,6 +787,8 @@ A curated directory of **345+ free, browser-based tools** from [toolz.dev](https
 - [Google Fonts](https://fonts.google.com/) - Free open-source font library.
 - [Font Squirrel](https://www.fontsquirrel.com/) - Free fonts for commercial use.
 - [Fontsource](https://fontsource.org/) - Self-host open-source fonts in neatly bundled NPM packages.
+
+---
 
 ---
 
